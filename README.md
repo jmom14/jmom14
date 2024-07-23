@@ -4,6 +4,12 @@
 
 I am a Software Engineer with a passion for Software development. I specialize in Fullstack development and enjoy working on projects that involve Python, React, Cloud, AI and ML.
 
+
+### Get in Touch
+- [Email](mailto:jo.manuel.ortega@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ortega-jose/)
+
+
 ### 🧰 Languages and Tools
 
 <img style="padding-right:10px;" src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" align="left" /> 
@@ -23,7 +29,4 @@ I am a Software Engineer with a passion for Software development. I specialize i
 <img style="padding-right:10px;" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" align="left" /> 
 <img style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" align="left" /> 
 
-### Get in Touch
-- [Email](mailto:jo.manuel.ortega@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ortega-jose/)
 
